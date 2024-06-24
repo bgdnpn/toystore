@@ -1,5 +1,5 @@
-#ToyStore
-A naive key-value store with flat file persistence.
+# ToyStore
+## A naive key-value store with flat file persistence.
 
 This is mostly me playing around with Ruby and trying to improve my code commit by commit.
 Currently very buggy, but this is the point.
