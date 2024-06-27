@@ -8,4 +8,6 @@ Also not sure what I want to build, actual k-v store and CLI implementations are
 
 ! very *naive* - in fact I initially named it NaiveStore, but ToyStore sounds better :D
 
-To be updated.
+TODO:
+- figure out a minimally plausible use case for this and
+- turn this codebase into it :D
